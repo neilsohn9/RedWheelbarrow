@@ -1,0 +1,3 @@
+C:/Users/ADMIN/CLionProjects/ovs-in-c.c/cmake-build-debug/CMakeFiles/ovs_in_c_c.dir
+C:/Users/ADMIN/CLionProjects/ovs-in-c.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/CLionProjects/ovs-in-c.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
